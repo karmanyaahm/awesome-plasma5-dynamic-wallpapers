@@ -22,8 +22,6 @@
 
 - [Spaceship You](https://github.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative)
   - <img src="https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg" width="600">
-
-
   - Maintainer: karmanyaahm
   - Artist: CGP Grey
 

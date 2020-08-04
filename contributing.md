@@ -20,7 +20,6 @@ Ensure your pull request adheres to the following guidelines:
 
 - Name the PR "Add Wallpaper: --name of wallpaper--"
 - Make sure to include the repository maintainer and artist
-- The image linked should be "https://raw.githubusercontent.com/\<username>/\<repo name>/\<file path>" due to image formatting issues that I don't understand.
 
 Thank you for your suggestions!
 

@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Name the PR "Add Wallpaper: <name of wallpaper>"
+- Make sure to include the heic file, ...
+- Please credit the original wallpaper author if relevant
 
 Thank you for your suggestions!
 

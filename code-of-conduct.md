@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+All of the following rules are from the yeoman generator for this repo but still apply.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as

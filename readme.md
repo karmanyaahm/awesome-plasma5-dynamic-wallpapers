@@ -1,28 +1,26 @@
 # Awesome Plasma5 Dynamic Wallpapers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> wallpapers to work with zzag&#39;s Plasma5 Dyanamic Wallpapers
+> wallpapers to work with zzag's Plasma5 Dynamic Wallpapers
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Wallpapers](#wallpapers)
 
 
-## Section
+## Wallpapers
 
-About this section. Optional. Keep this short and focus on the list.
+About this section: See title of section.
+
+- [Spaceship You](https://github.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative)
+  - ![](https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg)
+  - Maintainer: karmanyaahm
+  - Artist: CGP Grey
+ 
+
 
 - [List item](http://example.com)
-- [List item](http://example.com)
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
 ## Contribute

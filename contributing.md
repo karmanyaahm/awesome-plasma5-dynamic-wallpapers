@@ -20,6 +20,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Name the PR "Add Wallpaper: --name of wallpaper--"
 - Make sure to include the repository maintainer and artist
+- Images in the README.md should be in this format \<img src="https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg" width="600"\> with width 600 being the most important part.
 
 Thank you for your suggestions!
 

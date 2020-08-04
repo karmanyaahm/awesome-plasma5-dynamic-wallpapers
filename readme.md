@@ -12,7 +12,7 @@
 ## 1920x1080
 
 - [Lakeside](https://github.com/karmanyaahm/dynamicwallpaper-lakeside-louis-coyle)
-  - ![](https://github.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/raw/master/contents/images/preview.jpg)
+  - <img src="https://github.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/raw/master/contents/images/preview.jpg" width="600">
   - Maintainer: karmanyaahm (prev. hugotrsd)
   - Artist: Louis Coyle
 
@@ -21,7 +21,9 @@
 ## 4k
 
 - [Spaceship You](https://github.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative)
-  - ![](https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg)
+  - <img src="https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg" width="600">
+
+
   - Maintainer: karmanyaahm
   - Artist: CGP Grey
 

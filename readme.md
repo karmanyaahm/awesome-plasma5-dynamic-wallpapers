@@ -12,7 +12,7 @@
 ## 1920x1080
 
 - [Lakeside](https://github.com/karmanyaahm/dynamicwallpaper-lakeside-louis-coyle)
-  - ![](https://github.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/raw/master/contents/images/preview.jpg)
+  - ![](https://raw.githubusercontent.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/master/contents/images/preview.jpg)
   - Maintainer: karmanyaahm (prev. hugotrsd)
   - Artist: Louis Coyle
 

@@ -6,11 +6,20 @@ project you agree to abide by its terms.
 
 ---
 
+Requirements for repositories added to this list:
+- The '.heic' file should be easily downloadable
+- The image size of the wallpaper should be clearly presented (preferably in the readme)
+- The wallpaper repo should link back to <https://github.com/zzag/plasma5-wallpapers-dynamic>
+- The original designer (if not the same as the repo maintainer) should be credited (given there is no way of enforcing this except for trust)
+
+Most of the above are obvious but I wanted to write them down to have a baseline for any wallpapers in this 'awesome' wallpapers repo  
+
+
+
 Ensure your pull request adheres to the following guidelines:
 
-- Name the PR "Add Wallpaper: <name of wallpaper>"
-- Make sure to include the heic file, ...
-- Please credit the original wallpaper author if relevant
+- Name the PR "Add Wallpaper: --name of wallpaper--"
+- Make sure to include the repository maintainer and artist
 
 Thank you for your suggestions!
 

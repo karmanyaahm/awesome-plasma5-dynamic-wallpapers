@@ -25,6 +25,10 @@
   - Maintainer: karmanyaahm
   - Artist: CGP Grey
 
+- [Rotating Earth](https://github.com/deleterium/plasma5-wallpapers-dynamic-rotating-earth)
+  - <img src="https://raw.githubusercontent.com/deleterium/plasma5-wallpapers-dynamic-rotating-earth/master/rotating-earth-preview.jpg" width="600">
+  - Maintainer: deleterium
+  - Artist: NASA's EPIC satellite
 
 ## Contribute
 

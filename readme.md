@@ -29,6 +29,11 @@
   - <img src="https://raw.githubusercontent.com/deleterium/plasma5-wallpapers-dynamic-rotating-earth/master/rotating-earth-preview.jpg" width="600">
   - Maintainer: deleterium
   - Artist: NASA's EPIC satellite
+  
+- [Fedora 33 KDE](https://github.com/aerfanr/fedora-33-kde-dynamic-wallpaper)
+  - <img src="https://raw.githubusercontent.com/aerfanr/fedora-33-kde-dynamic-wallpaper/main/preview1.jpg" width="600">
+  - Maintainer: aerfanr
+  - Artist: Fedora Design Team
 
 ## Contribute
 

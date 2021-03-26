@@ -35,6 +35,11 @@
   - Maintainer: aerfanr
   - Artist: Fedora Design Team
 
+- [Fedora 34 KDE](https://github.com/aerfanr/fedora-34-kde-dynamic-wallpaper)
+  - <img src="https://raw.githubusercontent.com/aerfanr/fedora-34-kde-dynamic-wallpaper/main/preview1.jpg" width="600">
+  - Maintainer: aerfanr
+  - Artist: Fedora Design Team
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

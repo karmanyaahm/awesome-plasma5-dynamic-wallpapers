@@ -40,6 +40,11 @@
   - Maintainer: aerfanr
   - Artist: Fedora Design Team
 
+- [Fedora 35 KDE](https://github.com/subpop/fedora-kde-dynamic-wallpaper/tree/f35)
+  - <img src="https://github.com/subpop/fedora-kde-dynamic-wallpaper/blob/f35/preview.gif" width="600">
+  - Maintainer: subpop
+  - Artist: Fedora Design Team
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

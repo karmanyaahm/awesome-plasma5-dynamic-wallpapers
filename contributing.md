@@ -1,17 +1,11 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
-
----
-
 ## Adding a Wallpaper
 
 ### Wallpaper requirements
 
 Requirements for wallpaper repositories added to this list:
-- The '.heic' file should be easily downloadable.
+- The '.heic' (version 3) or '.avif' (version 4) file should be easily downloadable.
 - The image size of the wallpaper should be clearly presented (preferably in the readme).
 - The wallpaper repo should link back to <https://github.com/zzag/plasma5-wallpapers-dynamic> (so that if someone independently finds the wallpaper, they can easily get the software required).
 - The original designer (if not the same as the repo maintainer) should be credited (given there is no way of enforcing this except for trust).
@@ -38,12 +32,3 @@ Ensure your issue adheres to the following guidelines:
   
   
 Thank you for your suggestions!
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.

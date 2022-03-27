@@ -4,21 +4,27 @@
 
 
 ## Contents
+- [Version 4 (AVIF)](#version-4-avif-format)
+- Version 3 (HEIC)
+  - [1920x1080](#1920x1080)
+  - [4k](#4k)
 
-- [1920x1080](#1920x1080)
-- [4k](#4k)
+## Version 4 (AVIF Format)
 
+There are no such wallpapers yet, more will be added soon.
 
-## 1920x1080
+## Version 3 (HEIC Format)
+
+NOTE: These are NOT compatible with v4.x of Plasma 5 Dynamic Wallpaper
+
+### 1920x1080
 
 - [Lakeside](https://github.com/karmanyaahm/dynamicwallpaper-lakeside-louis-coyle)
   - <img src="https://github.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/raw/master/contents/images/preview.jpg" width="600">
   - Maintainer: karmanyaahm (prev. hugotrsd)
   - Artist: Louis Coyle
 
-
- 
-## 4k
+### 4k
 
 - [Spaceship You](https://github.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative)
   - <img src="https://raw.githubusercontent.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/master/contents/images/preview.jpg" width="600">

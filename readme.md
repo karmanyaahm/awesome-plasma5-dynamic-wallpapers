@@ -18,6 +18,13 @@
   - Original Size: 1920x1080
   - Type: Solar (Time-based)
 
+- [Fedora 35 KDE](https://github.com/subpop/fedora-kde-dynamic-wallpaper/tree/f35)
+  - <img src="https://github.com/subpop/fedora-kde-dynamic-wallpaper/blob/f35/preview.png" width="600">
+  - Maintainer: subpop
+  - Artist: Fedora Design Team
+  - Original Size: 4032 x 3024 (more than 4k)
+  - Type: Day/Night
+
 ## Version 3 (HEIC Format)
 
 NOTE: These are NOT compatible with v4.x of Plasma 5 Dynamic Wallpaper

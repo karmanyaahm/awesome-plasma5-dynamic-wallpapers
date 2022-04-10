@@ -11,7 +11,12 @@
 
 ## Version 4 (AVIF Format)
 
-There are no such wallpapers yet, more will be added soon.
+- [Lakeside](https://github.com/karmanyaahm/dynamicwallpaper-lakeside-louis-coyle)
+  - <img src="https://github.com/hugotrsd/dynamicwallpaper-lakeside-louis-coyle/raw/master/contents/images/preview.jpg" width="600">
+  - Maintainer: karmanyaahm (prev. hugotrsd)
+  - Artist: Louis Coyle
+  - Original Size: 1920x1080
+  - Type: Solar (Time-based)
 
 ## Version 3 (HEIC Format)
 

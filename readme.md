@@ -18,6 +18,13 @@
   - Original Size: 1920x1080
   - Type: Solar (Time-based)
 
+- [Fedora 33 KDE](https://github.com/aerfanr/fedora-33-kde-dynamic-wallpaper)
+  - <img src="https://raw.githubusercontent.com/aerfanr/fedora-33-kde-dynamic-wallpaper/main/preview1.jpg" width="600">
+  - Maintainer: aerfanr
+  - Artist: Fedora Design Team
+  - Original Size: 3840\*2160 (4k)
+  - Type: Solar (Time-based)
+
 - [Fedora 35 KDE](https://github.com/subpop/fedora-kde-dynamic-wallpaper/tree/f35)
   - <img src="https://github.com/subpop/fedora-kde-dynamic-wallpaper/blob/f35/preview.png" width="600">
   - Maintainer: subpop
@@ -48,7 +55,7 @@ NOTE: These are NOT compatible with v4.x of Plasma 5 Dynamic Wallpaper
   - Maintainer: deleterium
   - Artist: NASA's EPIC satellite
   
-- [Fedora 33 KDE](https://github.com/aerfanr/fedora-33-kde-dynamic-wallpaper)
+- [Fedora 33 KDE](https://github.com/aerfanr/fedora-33-kde-dynamic-wallpaper/tree/12fe837e0df4e352a19949b21fd922a087b0bb3c)
   - <img src="https://raw.githubusercontent.com/aerfanr/fedora-33-kde-dynamic-wallpaper/main/preview1.jpg" width="600">
   - Maintainer: aerfanr
   - Artist: Fedora Design Team

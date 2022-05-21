@@ -32,6 +32,13 @@
   - Original Size: 4032 x 3024 (more than 4k)
   - Type: Day/Night
 
+- [Fedora 36 KDE](https://github.com/subpop/fedora-kde-dynamic-wallpaper/tree/f36)
+  - <img src="https://github.com/subpop/fedora-kde-dynamic-wallpaper/blob/f36/preview.png" width="600">
+  - Maintainer: subpop
+  - Artist: Fedora Design Team
+  - Original Size: 4032 x 3024 (more than 4k)
+  - Type: Day/Night
+
 ## Version 3 (HEIC Format)
 
 NOTE: These are NOT compatible with v4.x of Plasma 5 Dynamic Wallpaper

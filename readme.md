@@ -39,6 +39,13 @@
   - Original Size: 4032 x 3024 (more than 4k)
   - Type: Day/Night
 
+- [TokyoStreet](https://github.com/Webblitchy/TokyoStreet-Dynamic-Wallpaper)
+  - <img src="https://github.com/Webblitchy/TokyoStreet-Dynamic-Wallpaper/blob/main/preview.jpg" width="600">
+  - Maintainer: Webblitchy
+  - Artist: Arseniy Chebynkin (arsenixc)
+  - Original Size: 1920x1080
+  - Type: Solar (Time-based)
+
 ## Version 3 (HEIC Format)
 
 NOTE: These are NOT compatible with v4.x of Plasma 5 Dynamic Wallpaper
